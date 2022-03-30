@@ -1,0 +1,12 @@
+asgiref==3.5.0
+attrs==21.4.0
+autopep8==1.6.0
+backports.zoneinfo==0.2.1
+Django==4.0.3
+importlib-resources==5.6.0
+jsonschema==4.4.0
+pycodestyle==2.8.0
+pyrsistent==0.18.1
+sqlparse==0.4.2
+toml==0.10.2
+zipp==3.7.0
